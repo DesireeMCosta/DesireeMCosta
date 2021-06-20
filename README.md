@@ -1,6 +1,6 @@
 - 👋 Oi, eu sou @DesireeMCosta
 - 👀 Estou interessada em aprender sobre tecnologia
-- 🌱 Atualmente stou aprendendo  html
+- 🌱 Atualmente estou aprendendo  html
 
 <!---
 DesireeMCosta/DesireeMCosta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
